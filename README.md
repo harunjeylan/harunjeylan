@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harunjeylan
-- 👀 I’m interested in ...AI and Ethical Hacking 
+- 👀 I’m interested in ...AI and Machin Learning
 - 🌱 I’m currently learning ... Python, C++, JavaScript Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
