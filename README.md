@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @harunjeylan
-- 👀 I’m interested in ...AI and Machin Learning
-- 🌱 I’m currently learning ... Python, C++, JavaScript Programming
+- 👀 I’m interested in ...Data scince, Machin Learning and AI.
+- 🌱 I’m currently learning ... Python, C++, JavaScript, Java, Ruby, Kotlin, goo, Programming.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Data scince, Machin Learning and AI.
 
 <!---
 harunjeylan/harunjeylan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
