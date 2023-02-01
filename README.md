@@ -12,6 +12,12 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Harun Jeylan</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
+
+
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+
+
 - 👋 Hi, I’m @harunjeylan
 - 👀 I’m interested in ...Data scince, Machin Learning and AI.
 - 💞️ I’m looking to collaborate on ...
@@ -20,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **Python, JavaScript, Django**
 - 📫 How to reach me **harunjeylanwako@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@harunjeylan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harunjeylan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/harunjeylan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harunjeylanwako" height="30" width="40" /></a>
