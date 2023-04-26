@@ -44,3 +44,5 @@ Enterprising web development professional with a newly gained understanding of t
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=harunjeylan&show_icons=true&theme=radical" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunjeylan&theme=radical&layout=compact" />
+ [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
