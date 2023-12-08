@@ -19,11 +19,11 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👋 Hi, I’m @harunjeylan
-- 👀 I’m interested in ...Data scince, Machin Learning and AI.
+- 👀 I’m interested in ... Cloud Computing, Microservice application and DevOps.
 - 💞️ I’m looking to collaborate on ...
-- 🔭 I’m currently working on **Victory**
-- 🌱 I’m currently learning **Data Science**
-- 💬 Ask me about **Python, JavaScript, Django**
+- 🔭 I’m currently working on **Full Stuck Web Development**
+- 🌱 I’m currently learning **Cloud Computing and DevOps**
+- 💬 Ask me about **Programming and Web Development**
 - 📫 How to reach me **harunjeylanwako@gmail.com**
 
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me:</h3>
