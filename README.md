@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/harunjeylan">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?harunjeylan=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harunjeylan&theme=radical" alt="Harun Jeylan's GitHub Contribution"/>
   </a>
 </p>
 
