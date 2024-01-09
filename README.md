@@ -44,9 +44,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 👋 Hi, I’m @harunjeylan
-- 👀 I’m interested in ... Cloud Computing, Microservice application and DevOps.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Harun Jeylan
+- 🏆 I'm Ozonetechnology **CTO and Founder**
+- 👀 I’m interested in **Cloud Computing, Microservice application and DevOps.**
 - 🔭 I’m currently working on **Full Stuck Web Development**
 - 🌱 I’m currently learning **Cloud Computing and DevOps**
 - 💬 Ask me about **Programming and Web Development**
