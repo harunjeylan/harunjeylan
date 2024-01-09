@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning **Cloud Computing and DevOps**
 - 💬 Ask me about **Programming and Web Development**
 - 📫 How to reach me **harunjeylanwako@gmail.com**
-- 📝 [My Resume](https://drive.google.com/file/d/1LLJqSujo6Ju1br3_-ZVXWbWDp7CsOyIH/view?usp=drivesdk)
+- 📝 Know more about me on **[My Resume](https://drive.google.com/file/d/1LLJqSujo6Ju1br3_-ZVXWbWDp7CsOyIH/view?usp=drivesdk)**
 
 <H2>About</H2>
 <p>My name is Harun and I am proud of who I am. Every day I strive to be kind, honest, and true to myself. I believe in the power of hard work and making dreams into reality. It is important for me to keep pushing forward and taking on life with resilience, no matter what comes my way. Success doesn't come without challenge but I have faith that if I stay determined and confident, anything can be achieved!</p>
