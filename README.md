@@ -28,13 +28,13 @@ You can click the Preview link to take a look at your changes.
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
- <a href="https://twitter.com/harunjeylan" target="_blank">
+ <a href="https://twitter.com/HarunJeylan1" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/harunjeylan" target="_blank">
+ <a href="https://instagram.com/harunjeylanwako" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.charunjeylan" target="_blank">
+ <a href="https://facebook.harunjeylanwako" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
