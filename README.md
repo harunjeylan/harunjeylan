@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning **Cloud Computing and DevOps**
 - 💬 Ask me about **Programming and Web Development**
 - 📫 How to reach me **harunjeylanwako@gmail.com**
-- 📝 Know more about me on **[My Resume](https://drive.google.com/file/d/1MmVs7pUlnpTiuxOU1kpDfJ5pV46nCBHy/view?usp=drivesdk)**
+- 📝 Know more about me on **[My Resume](https://www.canva.com/design/DAFYX1YIK4Q/lgQ3ugkEG1tEbQ8S8Wv5YA/view?utm_content=DAFYX1YIK4Q&utm_campaign=designshare&utm_medium=link&utm_source=editor)**
 
 <br />
 <H2>About</H2>
